@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "RUNNING THE SCRIPT NOW...!!"
-echo "......................."
+echo "........................."
 OS=$(cat /etc/lsb-release)
 echo "this os delails are: $OS"
 echo "......................."
